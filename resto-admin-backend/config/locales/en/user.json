@@ -1,0 +1,11 @@
+{
+  "ADMIN_USER_CREATION_FAILED": "New admin user creation failed.",
+  "REQUESTED_ROLE_DOES_NOT_EXSIT": "The requested role does not exist.",
+  "REQUESTED_USER_DOES_NOT_EXSIT": "User does not exist.",
+  "ROLES_NOT_ASSIGNED": "No role assigned to the user.",
+  "NOT_AN_ADMIN": "Not an admin user.",
+  "ADMIN_USER_DELETED_SUCCESSFULLY": "Admin user deleted successfully.",
+  "ADMIN_USER_DELETION_FAILED": "Admin user deletion failed.",
+  "YOU_CANNOT_DELETE_YOURSELF": "You can not delete yourself.",
+  "ADMIN_USERS_LIST_RETRIEVAL_FAILED": "Admin users fetch failed."
+}

@@ -1,0 +1,19 @@
+{
+ "defaultEnv": "local",
+ "local": {
+     "driver": "mysql",
+     "host":"127.0.0.1",
+     "user": "root",
+     "password": "root@123",
+     "database": "dialogue_local",
+     "multipleStatements": true
+ },
+ "test": {
+     "driver": "mysql",
+     "host":"127.0.0.1",
+     "user": "root",
+     "password": "root@123",
+     "database": "dialogue_local",
+     "multipleStatements": true
+ }
+}

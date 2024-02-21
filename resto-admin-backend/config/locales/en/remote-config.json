@@ -1,0 +1,10 @@
+{
+    "CONFIG_CONDITION_CREATION_FAILED": "Config condition creation failed.",
+    "CONFIG_CONDITION_FETCH_FAILED": "Failed fetch config conditions.",
+    "REMOTE_CONFIG_CREATION_FAILED": "New remote config key, value creation failed.",
+    "KEY_ALREADY_EXISTS": "Key exists already.",
+    "REMOTE_CONFIG_VALUE_EXISTS_FOR_SAME_CONDITION": "Remote config value exists already for the select condition",
+    "REMOTE_CONFIG_DELETION_FAILED": "Remote config value for given condition failed.",
+    "REMOTE_CONFIG_RETRIEVAL_FAILED": "Fetching remote config condtions and values failed.",
+    "REMOTE_CONFIG_UPDATE_FAILED": "Remote config update failed."
+  }

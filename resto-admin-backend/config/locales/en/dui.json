@@ -1,0 +1,22 @@
+{
+    "COMPONENT_ALREADY_EXISTS": "Dui component already exists.",
+    "COMPONENT_CREATION_FAILED": "Component creation failed.",
+    "COMPONENT_UPDATION_FAILED": "Component updation failed.",
+    "PAYLOAD_IS_EMPTY": "Payload is empty.",
+    "COMPONENT_NOT_FOUND": "Component not found.",
+    "COMPONENT_RETRIEVAL_FAILED": "There is some error while retreiving component.",
+    "COMPONENTS_NOT_FOUND": "There are no components.",
+    "COMPONENT_UPDATE_FAILED": "Component update failed.",
+    "COMPONENT_STATUS_UPDATED": "Component status updated.",
+    "SKELETON_ALREADY_EXISTS": "Skeleton already exists.",
+    "SKELETON_CREATION_FAILED": "Skeleton creation failed.",
+    "SKELETON_UPDATION_FAILED": "Skeleton updation failed.",
+    "SKELETON_NOT_FOUND": "Skeleton not found.",
+    "SKELETON_RETRIEVAL_FAILED": "There is some error while retreiving skeleton.",
+    "SKELETONS_NOT_FOUND": "There are no skeletons.",
+    "SKELETON_UPDATE_FAILED": "Skeleton update failed.",
+    "SKELETON_STATUS_UPDATED": "Skeleton status updated.",
+    "SKELETON_DATA_UPDATED": "Skeleton data updated",
+    "SKELETON_DATA_UPDATE_FAILED": "Skeleton data update failed."
+}
+  
